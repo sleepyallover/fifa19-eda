@@ -11,20 +11,20 @@ This analysis includes:<br>
 * Attributes that make a good player for each position
 
 ## Glimpse of the Insights
-1. Top 5 Best Player based on Overall Rating
+1. Top 5 Best Player based on Overall Rating<br>
 ![alt text](https://github.com/ramafhgit/fifa19-eda/blob/main/bestplay.png "best play")<br>
 
-2. Best Young Players; based on ability and potential
+2. Best Young Players; based on ability and potential<br>
 ![alt text](https://github.com/ramafhgit/fifa19-eda/blob/main/bestyouthability.png "youth ability")<br>
 ![alt text](https://github.com/ramafhgit/fifa19-eda/blob/main/bestpot.png "youth pot")<br>
 
-3. Highest Paid Players
+3. Highest Paid Players<br>
 ![alt text](https://github.com/ramafhgit/fifa19-eda/blob/main/highest%20paid.png "highest paid")<br>
 
-4. Rating Distribution per Position
+4. Rating Distribution per Position<br>
 ![alt text](https://github.com/ramafhgit/fifa19-eda/blob/main/avg%20rat%20pos.png "avg rat")<br>
 
-5. Top 10 Countries with most players
+5. Top 10 Countries with most players<br>
 ![alt text](https://github.com/ramafhgit/fifa19-eda/blob/main/country%20most%20ply.png "most ply")<br>
 
 etc.
