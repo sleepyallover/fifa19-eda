@@ -9,6 +9,7 @@ This analysis includes:<br>
 * Top Young players by ability
 * Top Young players by potential
 * Attributes that make a good player for each position
+* etc.
 
 ## Glimpse of the Insights
 1. Top 5 Best Player based on Overall Rating<br>
